@@ -1,5 +1,5 @@
 # Blog
-Teste DataBase Acess utilizando Dapper
+Criação de banco de dados inspirado em um blog.
 
 ## Models
  Possui modelos de tabelas para serem manipuladas em código.
