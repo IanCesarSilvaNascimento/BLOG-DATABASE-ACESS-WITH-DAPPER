@@ -1,5 +1,3 @@
-# Blog
-Criação de banco de dados inspirado em um blog.
 
 ## Models
  Possui modelos de tabelas para serem manipuladas em código.
