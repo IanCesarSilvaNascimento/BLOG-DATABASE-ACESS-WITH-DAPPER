@@ -83,7 +83,7 @@
   Contexto de telas(CategoryScreens,UserScreens,RoleScreens,TagScreens) com intuito de organizar as classes de interação do usuário com o banco.
   
 ### CategoryScreens
-  Contexto de classe category que permite selecionar a requisição deseja, obter os parametros, invocar o reposotorio com os modelos para interagir com o banco.
+  Contexto de classe category que permite selecionar a requisição desejada, obter os parametros e invocar o repositório com os modelos para interagir com o banco.
   
 #### MenuCategoryScreen.cs  
 ```Code
@@ -363,12 +363,9 @@
 
 
 # Utilização 
- Adicione o pacote Dapper no algoritmo através do comando abaixo: 
-```Code
-dotnet add package Dapper
-```
 
- Para executar , digite o comando abaixo no terminal: (Lembre-se que você deve criar o banco de dados com as tabelas e colunas semelhantes ao contexto de modelos)
+
+ Para executar , digite o comando abaixo no terminal: 
 ```Code
 dotnet run
 ```
